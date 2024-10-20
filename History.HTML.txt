@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History of Lamborghini</title>
+</head>
+<body>
+    <h1>The History of Lamborghini</h1>
+    
+    <p>
+        The story begins with <b>Ferruccio Lamborghini</b> in Italy, he is well know in the world by making <i>tractors</i>
+        
+    <blockquote>
+    
+                 <q> "should i build a car ?" </q>
+    </blockquote>
+    
+<p>
+But here was already <b> Enzo Ferrary </b> , the creator of <em> Ferrary </em> once said ..
+
+    <blockquote>
+                 <q> "You may know how to drive a tractor, but you will never know how to handle a Ferrari! </q>
+         
+
+<p>
+   Proving him wrong , <strong>Ferruccio Lamborghini</strong> finally presents <i>Automobili Lamborghini</i> in 1963. The <cite>350 GT</cite> 
+   
+ </p>
+ 
+ <p>
+ 
+      <blockquote>
+      
+      <i> Today, Lamborghini stands as a symbol of luxury, speed, and engineering excellence—built not just from metal, but from a dream. </i>
+      
+     </blockquote>
+ </p>
+ 
+ </body>
+ </html>
